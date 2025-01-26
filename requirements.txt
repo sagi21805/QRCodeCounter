@@ -1,2 +1,5 @@
 qrcode[pil]
 pyzbar
+opencv-python
+reportlab
+# Add to path msvrc120.dll
